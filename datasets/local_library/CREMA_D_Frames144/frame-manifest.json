@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "1001_DFA_ANG_XX",
+    "subject": "1001",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1001_DFA_ANG_XX.flv",
+    "video_sha256": "10dc3fd1f2bc8203657431598bd7dc9312462008f93d08fda786043ae6a8d2f4",
+    "frame_sha256": "1bdde1f319afc7ae0e793e04b2b61bad3f098c31791a0e64b717800e4e644400",
+    "frame_index": 33,
+    "frame_count": 67,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1001_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1001_DFA_DIS_XX",
+    "subject": "1001",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1001_DFA_DIS_XX.flv",
+    "video_sha256": "cb6db35d6e666076ae736850d48e97fa2ba61d9490724eb1f62d711bea994d3c",
+    "frame_sha256": "531dacf4ae74dcbe563b207fe098215c5bc99916afbf0d696840afe66b3594b6",
+    "frame_index": 35,
+    "frame_count": 70,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1001_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1001_DFA_FEA_XX",
+    "subject": "1001",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1001_DFA_FEA_XX.flv",
+    "video_sha256": "9869c4b9169a805b2c637ff5752947311111736eceb16abd276a890b97dcd57e",
+    "frame_sha256": "004aa89bd8b3643354ef867b700768e8e9b43d55823c4af82f6a6c5cd9ea8df6",
+    "frame_index": 32,
+    "frame_count": 65,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1001_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1001_DFA_HAP_XX",
+    "subject": "1001",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1001_DFA_HAP_XX.flv",
+    "video_sha256": "e72a1221a240f2e6c232b871734ec6ea367228f3feb076dfe448941731752b14",
+    "frame_sha256": "5135cc5d8970dcc8b502c025de484cfff0f13bae140d80b74d37a6805d575851",
+    "frame_index": 28,
+    "frame_count": 56,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1001_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1001_DFA_NEU_XX",
+    "subject": "1001",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1001_DFA_NEU_XX.flv",
+    "video_sha256": "a2b374bcd195d7320437c944eef2208dedd2c22725d09d65e8c31bf6c1eeb286",
+    "frame_sha256": "9485627ed9c068034191c52dab2f1fd4429e7d8485a047e97f873650bd5f9d29",
+    "frame_index": 30,
+    "frame_count": 61,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1001_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1001_DFA_SAD_XX",
+    "subject": "1001",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1001_DFA_SAD_XX.flv",
+    "video_sha256": "8fb9c1b08ef3edd03816208fb17fcc0d1ab3e3b8dd2e4a989695191f672bc40d",
+    "frame_sha256": "eb6b72c64acf2100b60b6b902997f15b53f6507607e7c29bc7c28a5a0cf29726",
+    "frame_index": 30,
+    "frame_count": 60,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1001_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1003_DFA_ANG_XX",
+    "subject": "1003",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1003_DFA_ANG_XX.flv",
+    "video_sha256": "b69c5dadb66748481c8dba2e03dde00d0cba731ef0f9121c44c50353d88e8cf5",
+    "frame_sha256": "21e7e08b97a1828c26f9d8d2fee142d59ffe54663aa4794a32df6a9d27f16cdc",
+    "frame_index": 47,
+    "frame_count": 94,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1003_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1003_DFA_DIS_XX",
+    "subject": "1003",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1003_DFA_DIS_XX.flv",
+    "video_sha256": "dc22315afb89f9a15155548f65b089ccd0fa6f897d0f8c9f933bc55804ca1e0c",
+    "frame_sha256": "dc00573413af39349a910dffea95f02d337c6b250b824dc47730136d6a143e1d",
+    "frame_index": 48,
+    "frame_count": 97,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1003_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1003_DFA_FEA_XX",
+    "subject": "1003",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1003_DFA_FEA_XX.flv",
+    "video_sha256": "a8090609abca99483246bee7fa75dc63109023575b1c6daeffea8053961bf23b",
+    "frame_sha256": "8a8748c09666273ba3f74f24c808902b7f6f04e7db401b3a5688da22d4abc4c7",
+    "frame_index": 46,
+    "frame_count": 92,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1003_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1003_DFA_HAP_XX",
+    "subject": "1003",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1003_DFA_HAP_XX.flv",
+    "video_sha256": "7fe434888f6f12cc83087427637ac6770b0a6595111333f66d0d60716765f0c5",
+    "frame_sha256": "8a23722dda6dff0dc4501ebb3846108b5369905281e65b32ba5f370558944878",
+    "frame_index": 49,
+    "frame_count": 98,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1003_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1003_DFA_NEU_XX",
+    "subject": "1003",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1003_DFA_NEU_XX.flv",
+    "video_sha256": "b57046431372b84a19db3480f19411f43550b7232aee76115854c3080b860fe8",
+    "frame_sha256": "24591296a0bfb04a24bd668747853ac3c932bf2dd51b33f079153b76aafba821",
+    "frame_index": 48,
+    "frame_count": 97,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1003_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1003_DFA_SAD_XX",
+    "subject": "1003",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1003_DFA_SAD_XX.flv",
+    "video_sha256": "0fd2ec4bf793eaf6100d73da15f642271487a556ee04ea1c5cf8151c1b36cee6",
+    "frame_sha256": "24a6f17e9c1f6ff590d206c0ed54d08e69b519ed358a8372e3ba5e0365a5f15b",
+    "frame_index": 48,
+    "frame_count": 96,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1003_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1012_DFA_ANG_XX",
+    "subject": "1012",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1012_DFA_ANG_XX.flv",
+    "video_sha256": "b79db8520201a8576c7c1e46379bb5ab7621d1d532c75ea65f14fa6e0be50ab8",
+    "frame_sha256": "b33afa1f4443fceaf52a3b0b58bd4326adb867f44736d51d28b0fde1960dce69",
+    "frame_index": 40,
+    "frame_count": 81,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1012_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1012_DFA_DIS_XX",
+    "subject": "1012",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1012_DFA_DIS_XX.flv",
+    "video_sha256": "56ebbc8baf7829d2d305d814c15616c9dac45edd7c98ba7bc317ef848ba41785",
+    "frame_sha256": "dbf5288a896329f57a20d0e457912e472f6bf4ea4799cd08a03c83284252f129",
+    "frame_index": 31,
+    "frame_count": 62,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1012_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1012_DFA_FEA_XX",
+    "subject": "1012",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1012_DFA_FEA_XX.flv",
+    "video_sha256": "bbf126f25f3c0c570268970e2c21c1d581c6f02182fc55bc24fbfedac816cc2d",
+    "frame_sha256": "231c382c97705b07bf6f3639c7fd91b17bf4ff8d5cce38eb5767135b8e4d7374",
+    "frame_index": 31,
+    "frame_count": 62,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1012_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1012_DFA_HAP_XX",
+    "subject": "1012",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1012_DFA_HAP_XX.flv",
+    "video_sha256": "2b6e3cc008a384dfa9ee2c12f372358db30227f974917ba29a2a88cbc15d6d2c",
+    "frame_sha256": "fd0b51001fc8fcbf06faeeb2636d8829d8c4d6838d064382247a6f792ba620b9",
+    "frame_index": 35,
+    "frame_count": 70,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1012_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1012_DFA_NEU_XX",
+    "subject": "1012",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1012_DFA_NEU_XX.flv",
+    "video_sha256": "c3df765d593c3803fc4a999ba1108e8ef6f23b033ec237e97a68a5254e64beea",
+    "frame_sha256": "03857d7ef1cf7a089622b4fd3b7da31e31d0321fcbee5b2653be048c8285ccfe",
+    "frame_index": 34,
+    "frame_count": 69,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1012_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1012_DFA_SAD_XX",
+    "subject": "1012",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1012_DFA_SAD_XX.flv",
+    "video_sha256": "95655b96fdf7bc178fb57412d9aa177ed884a61e413cea1e0f588bc48e1433cc",
+    "frame_sha256": "bd756acebf3c18324346b7a95595dfd99d445d19a8c64d4b9ea5e2b5a097a863",
+    "frame_index": 34,
+    "frame_count": 68,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1012_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1013_DFA_ANG_XX",
+    "subject": "1013",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1013_DFA_ANG_XX.flv",
+    "video_sha256": "5b70c88c97209eb4bdd071df0b42d86ee7a22d3fac19d6808ca43a11501a41d7",
+    "frame_sha256": "7030949066430346d1c2ba1af1d55e71afe60b8ed5ea2964587703a0c9cf941d",
+    "frame_index": 41,
+    "frame_count": 82,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1013_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1013_DFA_DIS_XX",
+    "subject": "1013",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1013_DFA_DIS_XX.flv",
+    "video_sha256": "81e59da7905afa0f3639ae9d13ad23244ac3428974a256fac8136b4722901ec5",
+    "frame_sha256": "fcb2c2b5f45e1e07265b8fe49a9ec8f85fa5df755cd8b4bd40ed3bf7ecde2e8a",
+    "frame_index": 34,
+    "frame_count": 68,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1013_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1013_DFA_FEA_XX",
+    "subject": "1013",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1013_DFA_FEA_XX.flv",
+    "video_sha256": "d93ec6f21d64f41ac3c6aa902f3d735ccd8ca5982f9b45ebfc7de95e6cbc40a8",
+    "frame_sha256": "088a327294a8d2bde55cf7fdc5d2c5de0f1460f63956e980aa7c2a4c5ffcb5af",
+    "frame_index": 27,
+    "frame_count": 55,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1013_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1013_DFA_HAP_XX",
+    "subject": "1013",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1013_DFA_HAP_XX.flv",
+    "video_sha256": "be64a2367ef6693fa041f91d6f794287bd16f0d2b281a8bcbe339ac6d39b43ad",
+    "frame_sha256": "20ce84ef3800e4454adbb809f71ea72206044d6235cd1ef4d2a07cafaf75975e",
+    "frame_index": 31,
+    "frame_count": 62,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1013_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1013_DFA_NEU_XX",
+    "subject": "1013",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1013_DFA_NEU_XX.flv",
+    "video_sha256": "b3289ae7129dbc31620d84ea39efb80de45b542cd6dfa8acb9e6a611c1be6d18",
+    "frame_sha256": "6e1598c4912d15a266f3ea67241a4567ce52b5276e24eb2662d51dbdca31e9c4",
+    "frame_index": 35,
+    "frame_count": 70,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1013_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1013_DFA_SAD_XX",
+    "subject": "1013",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1013_DFA_SAD_XX.flv",
+    "video_sha256": "98580cbb1269467ff91679960a246b8ade3ccddbce44fb2c94c9a591f8d964f6",
+    "frame_sha256": "47f817faddd53b034a4924212615a634b599010c7cf043f2b152d8dfcd02af26",
+    "frame_index": 33,
+    "frame_count": 67,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1013_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1017_DFA_ANG_XX",
+    "subject": "1017",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1017_DFA_ANG_XX.flv",
+    "video_sha256": "1c1543644c3285035ee8fce6742a8d81188a58183b9aa1755f403bf00a013a24",
+    "frame_sha256": "32a6a6d336882a14edb024aa9b3d809ee969d3c4f9472dbd40e6c0b1ce6bde4b",
+    "frame_index": 24,
+    "frame_count": 48,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1017_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1017_DFA_DIS_XX",
+    "subject": "1017",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1017_DFA_DIS_XX.flv",
+    "video_sha256": "61fff26b00eb3ba4f6c1b9015d3516f1edf676fcba1d5bf5c70c66f1a24cc931",
+    "frame_sha256": "73fd56628fd1a3b158bc7f5d99465423ef11a062a5ae2611b6f134ebcf005783",
+    "frame_index": 24,
+    "frame_count": 48,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1017_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1017_DFA_FEA_XX",
+    "subject": "1017",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1017_DFA_FEA_XX.flv",
+    "video_sha256": "a70a3c94d0d0d1012c802a43ecaa27eb7087471dc358abcb2c52b8119e267ec5",
+    "frame_sha256": "a3a6623e5b34004e80399f2807b40d1defda282946977d7a362bea7019bdcf56",
+    "frame_index": 20,
+    "frame_count": 41,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1017_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1017_DFA_HAP_XX",
+    "subject": "1017",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1017_DFA_HAP_XX.flv",
+    "video_sha256": "6a90aa73d07d576bbaa2ed5878b45f7a3b01bf0d5ab9944bec8f3e4c214e96f0",
+    "frame_sha256": "4719229b5c14c76a59d64a321aa7d3b3a295d146f483c53b438dba94845b39f1",
+    "frame_index": 28,
+    "frame_count": 57,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1017_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1017_DFA_NEU_XX",
+    "subject": "1017",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1017_DFA_NEU_XX.flv",
+    "video_sha256": "d510ee39f7bbd0aec16abba7142fdfadfbfe319e74641e5b8ccb8c8c18dc04c3",
+    "frame_sha256": "2b7374f3fec22b3ee5b5b80695bf4eeb6943594a11b467f8200d375020fdeb26",
+    "frame_index": 26,
+    "frame_count": 52,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1017_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1017_DFA_SAD_XX",
+    "subject": "1017",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1017_DFA_SAD_XX.flv",
+    "video_sha256": "38634770174df1a816f9a7e744c7fcdfa27130107efe0d5f5981b555ac501802",
+    "frame_sha256": "bdac0aa9997c5290255e8d41f840170118e7d6a5982dcb491ddd4055c1000dcc",
+    "frame_index": 25,
+    "frame_count": 50,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1017_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1018_DFA_ANG_XX",
+    "subject": "1018",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1018_DFA_ANG_XX.flv",
+    "video_sha256": "30bc582134598a83b7af73bd60991d0e0cdef5fa849b74bcffca7f9464733430",
+    "frame_sha256": "b9512df63155f8c91bf259b2c9ddf3094f016aefddaa745489ccf566876dfb67",
+    "frame_index": 29,
+    "frame_count": 59,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1018_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1018_DFA_DIS_XX",
+    "subject": "1018",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1018_DFA_DIS_XX.flv",
+    "video_sha256": "f7dd6bcc99f41cf74a5c096ac9dfac815f6060874b258b7136319c1bf4dc85b8",
+    "frame_sha256": "3c6494744d1de9a056a0efd431e844676db3af7a66fc48a2080098f1903309e2",
+    "frame_index": 34,
+    "frame_count": 69,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1018_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1018_DFA_FEA_XX",
+    "subject": "1018",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1018_DFA_FEA_XX.flv",
+    "video_sha256": "4a16b1b60bc23f5605b1b3d085af536cdbf15bbeddb3b10070e7c98e9fc13e4d",
+    "frame_sha256": "6bdaebf6b1c5ddb23528bfa8988a3bbed5749917f3dea9ecce2627025610a600",
+    "frame_index": 32,
+    "frame_count": 64,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1018_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1018_DFA_HAP_XX",
+    "subject": "1018",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1018_DFA_HAP_XX.flv",
+    "video_sha256": "7071c3f4d4903b9b54094a397eb177736f4334211a651e5703c1a5378d6ea816",
+    "frame_sha256": "598d9ef511badf1e4ff3a60295724ba7371f41ab8c2702ae0c3ee9cd469ce050",
+    "frame_index": 24,
+    "frame_count": 49,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1018_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1018_DFA_NEU_XX",
+    "subject": "1018",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1018_DFA_NEU_XX.flv",
+    "video_sha256": "fd40e7dd55f80d73c93ed7bed4cb910ba44f59943ff0943393bd1a19b08d0157",
+    "frame_sha256": "1a9229c67c2b1f1f3d285e23414b83c0ffa05022b030d4442444846c120dd3b6",
+    "frame_index": 30,
+    "frame_count": 60,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1018_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1018_DFA_SAD_XX",
+    "subject": "1018",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1018_DFA_SAD_XX.flv",
+    "video_sha256": "81ca9871ed88f0e0a771712fc0e88b1d07e3a8f0d7cabce5f1e2aec6c1f799c5",
+    "frame_sha256": "997ab83ae2b523cb9e9cde2584c85975e51a7a777cdf32a10354227f6d1b1635",
+    "frame_index": 24,
+    "frame_count": 49,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1018_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1019_DFA_ANG_XX",
+    "subject": "1019",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1019_DFA_ANG_XX.flv",
+    "video_sha256": "896f4ef80f9dce63e968cd19bf3dbd7d7d9bc5de8ab0d9cd7f4f68f025dd26e6",
+    "frame_sha256": "00fb3d9e714e433351dc7f7981845ff0a2070318c999963cac83ca234b2b68a1",
+    "frame_index": 25,
+    "frame_count": 50,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1019_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1019_DFA_DIS_XX",
+    "subject": "1019",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1019_DFA_DIS_XX.flv",
+    "video_sha256": "734abe2531345a5f36a66917cf0ab1fc5be7cfecf8724701e9d50198c33cc031",
+    "frame_sha256": "12d2ec4d0c54d712ca028c8a06a0504e461121e33b19fa15db7889057c54c1ea",
+    "frame_index": 31,
+    "frame_count": 62,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1019_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1019_DFA_FEA_XX",
+    "subject": "1019",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1019_DFA_FEA_XX.flv",
+    "video_sha256": "185286ee6c2df8dff8d332aa8324dd0ad8a1dec3c3dd806484892206eabbdb5a",
+    "frame_sha256": "a2209437d307773bb4ad33d841165cc9bc835a79cf081c5ebc9170f2fbe939e6",
+    "frame_index": 35,
+    "frame_count": 70,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1019_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1019_DFA_HAP_XX",
+    "subject": "1019",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1019_DFA_HAP_XX.flv",
+    "video_sha256": "084e4c9fae46a7bdbaec92d3538712a08cd0c05ceffe235cefc4c89bfcb30d6d",
+    "frame_sha256": "3011ddfc16534c3b1fabeaeb11ffc8ddebf9333bf0c058056098b5d26ea8e52f",
+    "frame_index": 33,
+    "frame_count": 67,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1019_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1019_DFA_NEU_XX",
+    "subject": "1019",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1019_DFA_NEU_XX.flv",
+    "video_sha256": "26adfa9095167eb44f704b4d60f13a4a035a79fa0682545b5bfc64ed820c567b",
+    "frame_sha256": "e3b2a804d0cc66b8b4aa323b76278659c4fb22f515ed08c7a8108b11bf67f293",
+    "frame_index": 23,
+    "frame_count": 47,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1019_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1019_DFA_SAD_XX",
+    "subject": "1019",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1019_DFA_SAD_XX.flv",
+    "video_sha256": "da231416efe24e7d570bd94d1d15ca040c8ec51edbfdc3dc6e47e69b2d236195",
+    "frame_sha256": "e5643b787941c6db66c1dcb0a1baed1d9d81d9af4934fb01e78e9f0b40ef6b93",
+    "frame_index": 36,
+    "frame_count": 72,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1019_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1023_DFA_ANG_XX",
+    "subject": "1023",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1023_DFA_ANG_XX.flv",
+    "video_sha256": "2a128cc13544a262a5072363793474b138e1c32a57a4c5f161b70e7d87a1e5e9",
+    "frame_sha256": "e4df1feb39403bf5407b0df0c6ed1793eea8c0d1ae02cdc1a7fa1ead83d1942b",
+    "frame_index": 37,
+    "frame_count": 74,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1023_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1023_DFA_DIS_XX",
+    "subject": "1023",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1023_DFA_DIS_XX.flv",
+    "video_sha256": "33204d9305d130c5be75ad533413394d09d15d8338390be48bae278a05841ed7",
+    "frame_sha256": "491e4136e283c24a7e0d845ad5040ab8328fb77b46b88199065fe3040e99e0e2",
+    "frame_index": 23,
+    "frame_count": 46,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1023_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1023_DFA_FEA_XX",
+    "subject": "1023",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1023_DFA_FEA_XX.flv",
+    "video_sha256": "813d694a96f1b3b576eeb3c658f5c0a33b3c31c793b6d5d43a919846a01220aa",
+    "frame_sha256": "9b9b93f923add529a193540583d03a14b803e8c6d673436749cdc1fd4b42c9d6",
+    "frame_index": 30,
+    "frame_count": 60,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1023_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1023_DFA_HAP_XX",
+    "subject": "1023",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1023_DFA_HAP_XX.flv",
+    "video_sha256": "dc963ef39017c76ab6ed10c7b08444d50c6f4dbd392b223c23f2bc8a5dc393c4",
+    "frame_sha256": "2a0766757a78648287410eca527a4e255becd08a1b328c6d0a2b8e521331f3c9",
+    "frame_index": 28,
+    "frame_count": 56,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1023_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1023_DFA_NEU_XX",
+    "subject": "1023",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1023_DFA_NEU_XX.flv",
+    "video_sha256": "062a4431b50e50c4a9b9b72388de1a419abe80a06f19a20c6bf31489df3e7e35",
+    "frame_sha256": "b0627fefe33be8facdabd9423f0a52f07576b39a32e11caa1b87f9836a404739",
+    "frame_index": 31,
+    "frame_count": 63,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1023_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1023_DFA_SAD_XX",
+    "subject": "1023",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1023_DFA_SAD_XX.flv",
+    "video_sha256": "443c16afcc96577448432112c2a18640b014e5b4306e12aa93d9a4acaeb5ff94",
+    "frame_sha256": "4269ada6fd640a69f10fd74ac52c626be0c8dd281b59209b6ba20ea764818793",
+    "frame_index": 27,
+    "frame_count": 54,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1023_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1024_DFA_ANG_XX",
+    "subject": "1024",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1024_DFA_ANG_XX.flv",
+    "video_sha256": "142e29d78d28f1993b6340b37a5b87bcfa6e7c36d859ba72ff61fe233926f786",
+    "frame_sha256": "6463f6bf7fa4728e123ac5606e3f6fe21a7134ec8709b66f3317a90628214201",
+    "frame_index": 32,
+    "frame_count": 64,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1024_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1024_DFA_DIS_XX",
+    "subject": "1024",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1024_DFA_DIS_XX.flv",
+    "video_sha256": "9eb9b3a005091e9f590f33ba1ef18da9a862708c9b4f6fb52e4ff0c653d10c69",
+    "frame_sha256": "cd3de9db9a733ef4815c11b4a5366bde029594756a386ebd38eaa1c059638e49",
+    "frame_index": 42,
+    "frame_count": 84,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1024_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1024_DFA_FEA_XX",
+    "subject": "1024",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1024_DFA_FEA_XX.flv",
+    "video_sha256": "edbf7895b34873435177e448d85283c8898a3e99b1e4fe90d2689c84007d4fbb",
+    "frame_sha256": "2ecaa66331cfc4463487920afa59e50ff1c0fcc974f21663b2c98b9929071d99",
+    "frame_index": 32,
+    "frame_count": 64,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1024_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1024_DFA_HAP_XX",
+    "subject": "1024",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1024_DFA_HAP_XX.flv",
+    "video_sha256": "219c74449b682886e116c8ab1ffcbb223450304fbb0f50ed775a30f76f09b37f",
+    "frame_sha256": "f0585b1c1be9ede4af216bbd6c271e2967efbdd7baeb86fb459897b643eb1fe4",
+    "frame_index": 29,
+    "frame_count": 58,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1024_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1024_DFA_NEU_XX",
+    "subject": "1024",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1024_DFA_NEU_XX.flv",
+    "video_sha256": "f89287f9104b71990ceffd5ae83e105d5f10abcf76f9ad62ada673ca5a3f5a99",
+    "frame_sha256": "0446f3a361c14085c32d931e0c8bfad5d615b73944996226eeae0d61a2c61444",
+    "frame_index": 27,
+    "frame_count": 54,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1024_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1024_DFA_SAD_XX",
+    "subject": "1024",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1024_DFA_SAD_XX.flv",
+    "video_sha256": "aa691f2d09c4d5edc64e367b92e11e9a47e8dd8de0e787443f97cfc2e5ca78f1",
+    "frame_sha256": "e18c35776df4e56a8e56701173b132cd15fed5e006a07f348ed80b541f352e3f",
+    "frame_index": 26,
+    "frame_count": 52,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1024_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1025_DFA_ANG_XX",
+    "subject": "1025",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1025_DFA_ANG_XX.flv",
+    "video_sha256": "2fb88811a65daae523415f7b712f18bf9fb16d5e2b0d525fe834af2ac5be149e",
+    "frame_sha256": "e763404104c719690f7e3f13ea70d9650d3e3d4611387e8720df922e155fddfc",
+    "frame_index": 32,
+    "frame_count": 65,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1025_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1025_DFA_DIS_XX",
+    "subject": "1025",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1025_DFA_DIS_XX.flv",
+    "video_sha256": "cf2fc1c18723d686dad6ce6cefb5e7d9bd759796c1afc07311cea3c53810fbda",
+    "frame_sha256": "fa4319e1f3ce7c8c68ef0a2247dcb6e6c61a023530ef53c5f4d4f4209eaec842",
+    "frame_index": 60,
+    "frame_count": 120,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1025_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1025_DFA_FEA_XX",
+    "subject": "1025",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1025_DFA_FEA_XX.flv",
+    "video_sha256": "077049e8f5b8dd5d0011a108406407b2172437456a2d3c4a74707f1fcd9f6b9b",
+    "frame_sha256": "cab58e1820d1365122521bc6e12d4b21b91f22e809322ccb018932b37884368d",
+    "frame_index": 42,
+    "frame_count": 84,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1025_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1025_DFA_HAP_XX",
+    "subject": "1025",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1025_DFA_HAP_XX.flv",
+    "video_sha256": "e0d84a80565da7996b4d6effc4cf8c25edaa264b638b1bb509e326ae6260a2f4",
+    "frame_sha256": "c3d7df7e68d6815fac0d6600ea6557ea4b597d4b76902dc09d8d53c73a711b69",
+    "frame_index": 26,
+    "frame_count": 53,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1025_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1025_DFA_NEU_XX",
+    "subject": "1025",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1025_DFA_NEU_XX.flv",
+    "video_sha256": "32c26e571f87aff77d9c49487cfb1de15c329fd55733fc5afe69d81e5d723343",
+    "frame_sha256": "999cec50f32e3e22be65800425cb04426a7ff1f6d0f8e65f79c04f2f569dbf04",
+    "frame_index": 44,
+    "frame_count": 88,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1025_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1025_DFA_SAD_XX",
+    "subject": "1025",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1025_DFA_SAD_XX.flv",
+    "video_sha256": "dcf2aa721bd56c3dc503bdfd8ffb42c5a5ffa4f30acaf8d5288fa11f680c8ea8",
+    "frame_sha256": "2213badac00e1f393d7cfffd8946bcfcd57fe98a0cdb3d86902fa4f51d9ba68d",
+    "frame_index": 36,
+    "frame_count": 72,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1025_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1039_DFA_ANG_XX",
+    "subject": "1039",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1039_DFA_ANG_XX.flv",
+    "video_sha256": "2f645f55ab5a1570dd84a7fc4402c97eefdcf3aa2464c1fd39e279fafd492ec6",
+    "frame_sha256": "65a13cc4ac01dfd22a4225ed0e244809baa147306744eac7066a27042a25e9ca",
+    "frame_index": 37,
+    "frame_count": 75,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1039_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1039_DFA_DIS_XX",
+    "subject": "1039",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1039_DFA_DIS_XX.flv",
+    "video_sha256": "dfd36742b3f3306aea248a5597aaaa840cb065ff742803726d4998f9a329bc20",
+    "frame_sha256": "20a32a6521eb4d5886e462dc5cb7feb67c1570bf3cd9887eb0cd40e45a0fcf4e",
+    "frame_index": 36,
+    "frame_count": 73,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1039_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1039_DFA_FEA_XX",
+    "subject": "1039",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1039_DFA_FEA_XX.flv",
+    "video_sha256": "f3137fda1faa04376fca640659dbf6ac0a76c3ca88b5bdac8815d1d5d672f8b5",
+    "frame_sha256": "87eb68e29b538f6d2bbbd9dd3b37e1ad8ab96fb6f6156fe297125553c81a2caa",
+    "frame_index": 41,
+    "frame_count": 83,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1039_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1039_DFA_HAP_XX",
+    "subject": "1039",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1039_DFA_HAP_XX.flv",
+    "video_sha256": "d1b48e07ae8342cf8d0a0f2f9a69b2eea0e87c837f3d5c061ad9dff9505d9a58",
+    "frame_sha256": "798ae46fe4f906c4ce7ccefb2cdac4505ebee019b62c3f0446e410c9b8b5cc4a",
+    "frame_index": 30,
+    "frame_count": 61,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1039_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1039_DFA_NEU_XX",
+    "subject": "1039",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1039_DFA_NEU_XX.flv",
+    "video_sha256": "67e5ee9629fd755d1ccca6d88dbda284b29fe7ec41fae78b9e45c5f89fc7bfbd",
+    "frame_sha256": "8bed6be123295ca4c058dea694993e04613bd6c90e19fe5df9b604d1c6847462",
+    "frame_index": 31,
+    "frame_count": 62,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1039_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1039_DFA_SAD_XX",
+    "subject": "1039",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1039_DFA_SAD_XX.flv",
+    "video_sha256": "ad0fc1d19a61a9ea675e4d83ac040c7263841cd2f0414a3f5e39249d5fd42b5e",
+    "frame_sha256": "a4ac7b79a5a1584e0e686593a4f84a71ea7ebfd166567e5af458eea68206cf20",
+    "frame_index": 29,
+    "frame_count": 59,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1039_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1043_DFA_ANG_XX",
+    "subject": "1043",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1043_DFA_ANG_XX.flv",
+    "video_sha256": "71e1b0e60f5d6a9a34b4c4226a6afe54c82636527bdebd80e64c423b5d84e8e3",
+    "frame_sha256": "46e5a809d595c171bcb3187ab27785718eed86bc59ca15388ba0db1d350ba56c",
+    "frame_index": 25,
+    "frame_count": 50,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1043_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1043_DFA_DIS_XX",
+    "subject": "1043",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1043_DFA_DIS_XX.flv",
+    "video_sha256": "290570d568866baf58ecee8b542664cf7c2b9e68c17e017e1d3366d2a5b95ce7",
+    "frame_sha256": "c4da857f71855840d8150d81b7ee0b5a48259477265b693d6dd75436360174b6",
+    "frame_index": 34,
+    "frame_count": 68,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1043_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1043_DFA_FEA_XX",
+    "subject": "1043",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1043_DFA_FEA_XX.flv",
+    "video_sha256": "e537b5ab3da5ce291b4a5c73919a408b8fd5bce455f4bb19e25f6c7136715e50",
+    "frame_sha256": "191801b9966f7ce81cefe231bc384905cfb017274da20005b109923b7d5e6336",
+    "frame_index": 33,
+    "frame_count": 66,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1043_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1043_DFA_HAP_XX",
+    "subject": "1043",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1043_DFA_HAP_XX.flv",
+    "video_sha256": "b3df21dc449b8ca1de8037df2db77d18a710418cf8f6d95bced8dafb110cc6d8",
+    "frame_sha256": "46d4e2b1edc1413fee0d12347d6ff04b2e5ed8eb71c0202805752856041209ab",
+    "frame_index": 26,
+    "frame_count": 53,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1043_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1043_DFA_NEU_XX",
+    "subject": "1043",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1043_DFA_NEU_XX.flv",
+    "video_sha256": "8298317f9a41a16ee6a7a28d4cf6a1cb47fa30d0b503350963e31caf58c91080",
+    "frame_sha256": "5f120bc1d630975cb8e4e88a14a46c570a248ceaaebebeee7224e868712b9be9",
+    "frame_index": 26,
+    "frame_count": 52,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1043_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1043_DFA_SAD_XX",
+    "subject": "1043",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1043_DFA_SAD_XX.flv",
+    "video_sha256": "f096f8b0a055e920328a4828b1271d3511590c593576506928f960afb7d699be",
+    "frame_sha256": "50f33f4bdfb349c0f9a930295769e70a9321427eaf83ede97f0407cbd0143564",
+    "frame_index": 33,
+    "frame_count": 67,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1043_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1051_DFA_ANG_XX",
+    "subject": "1051",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1051_DFA_ANG_XX.flv",
+    "video_sha256": "86d85b271e078fbf1824cbd6bcfc306c3817ea769f89d48cb903cf2a845a7253",
+    "frame_sha256": "e448f0f6741a9f23109f64d09677026ede052a4847c4c90f989a8e344280d74f",
+    "frame_index": 28,
+    "frame_count": 56,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1051_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1051_DFA_DIS_XX",
+    "subject": "1051",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1051_DFA_DIS_XX.flv",
+    "video_sha256": "2e17085a40248d93a12558fce0d5d603244643575b0d5c6ebbdceb3e1c6474bf",
+    "frame_sha256": "e6ad1ec406628eec6132bb4c3412dddbf136d8aff713f5b998b5d07165862e7c",
+    "frame_index": 37,
+    "frame_count": 74,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1051_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1051_DFA_FEA_XX",
+    "subject": "1051",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1051_DFA_FEA_XX.flv",
+    "video_sha256": "73b1054c69ca56a656e65270851e5543ec064be5b9bfcaeb1f48b2ed0eefacf3",
+    "frame_sha256": "d40368773ffd98f5518050a0d7db00e2de321515ed705e4ffa4fb07b7501f361",
+    "frame_index": 30,
+    "frame_count": 60,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1051_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1051_DFA_HAP_XX",
+    "subject": "1051",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1051_DFA_HAP_XX.flv",
+    "video_sha256": "c93388b92db4d5dbcbec08e26cd6e6864f64551b8fcd07f25f965106509c9ea9",
+    "frame_sha256": "036aaaf297b7e3125ca7bd8d926043e419f6b0353769364e822bc85524ff3c3a",
+    "frame_index": 27,
+    "frame_count": 55,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1051_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1051_DFA_NEU_XX",
+    "subject": "1051",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1051_DFA_NEU_XX.flv",
+    "video_sha256": "3d4fcb82de66599981e49bc370365ef4c11ba6a6ef5d1099a8b7af3a1f5d9ce5",
+    "frame_sha256": "d4208dd512b2dc65adc73572fd97413b9eb710e27022f18a4eb75f9ddf526b6d",
+    "frame_index": 26,
+    "frame_count": 53,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1051_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1051_DFA_SAD_XX",
+    "subject": "1051",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1051_DFA_SAD_XX.flv",
+    "video_sha256": "a715018c1cd42984a1347f05f622e7e01b4e66c7a4488e127986809f6d6534f9",
+    "frame_sha256": "3868f560375ecf9714e6210b53f7c9aa68202701ac257c208d0113cfea9f98bb",
+    "frame_index": 30,
+    "frame_count": 61,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1051_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1052_DFA_ANG_XX",
+    "subject": "1052",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1052_DFA_ANG_XX.flv",
+    "video_sha256": "783f96ca4e9178a7a1f875a1ce07ddd48dd1f71803d778630733fca7d8dc594d",
+    "frame_sha256": "2494e0f18c6a54cab3aa0648eaa75f85b5366aadd6ae4e086d6faeac044a5ece",
+    "frame_index": 33,
+    "frame_count": 67,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1052_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1052_DFA_DIS_XX",
+    "subject": "1052",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1052_DFA_DIS_XX.flv",
+    "video_sha256": "6d92aee1af3f4197e63962ad037cf7a2f8e2d527f24c7235deec7837922f05ef",
+    "frame_sha256": "6babfa3e833beead083be4878c87208868d354a5aa9f7706b4f3fd56d379b21b",
+    "frame_index": 27,
+    "frame_count": 54,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1052_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1052_DFA_FEA_XX",
+    "subject": "1052",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1052_DFA_FEA_XX.flv",
+    "video_sha256": "dad7a00a472920a33ba5a9c94a93a36b6ddc38eb12ca6a62044acdef48fc0ba7",
+    "frame_sha256": "1e0e6d9ca1ae2c5cc3198d426ce273946b26a110363cb012afefc71324e460bc",
+    "frame_index": 41,
+    "frame_count": 82,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1052_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1052_DFA_HAP_XX",
+    "subject": "1052",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1052_DFA_HAP_XX.flv",
+    "video_sha256": "40496e48e644c0b66bfe1398fee12b8924e82a35ead247bbb77a6586bb6daa05",
+    "frame_sha256": "a16c3e91192cc63044c466760b1074a8b9996eae8dda8419b4a9542a4ead4195",
+    "frame_index": 29,
+    "frame_count": 59,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1052_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1052_DFA_NEU_XX",
+    "subject": "1052",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1052_DFA_NEU_XX.flv",
+    "video_sha256": "3e40ce2cc3a44afd8241e69d5da42178daf72edee7cbcbfd22113ac1cc17e3e6",
+    "frame_sha256": "30c3cb29b6f3154e1f07bf5e889efa6c461cd58e5cec3866b00e20c29385af08",
+    "frame_index": 40,
+    "frame_count": 80,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1052_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1052_DFA_SAD_XX",
+    "subject": "1052",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1052_DFA_SAD_XX.flv",
+    "video_sha256": "5e5306f857373b688c3df0d99e89b547e2619313adf0c3577e6a9762e50ce47e",
+    "frame_sha256": "fe0093fb5971cffcdcbbbd3f205ae1847df315e2fd3252d75e58069e6dd0b140",
+    "frame_index": 35,
+    "frame_count": 70,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1052_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1053_DFA_ANG_XX",
+    "subject": "1053",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1053_DFA_ANG_XX.flv",
+    "video_sha256": "c3f498f2530451ba0abd7a706b1ebee3988af28a5f0b6b1f7537d2f6ccd1ea39",
+    "frame_sha256": "2f41ae54df49f99899d6ee311d551592558909727d893bd4aae212d7ccdddaaf",
+    "frame_index": 26,
+    "frame_count": 52,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1053_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1053_DFA_DIS_XX",
+    "subject": "1053",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1053_DFA_DIS_XX.flv",
+    "video_sha256": "178cfe11c767e3722f4849f2fa42afb32cb5600d2c6884df4e63cf35ddfb87f4",
+    "frame_sha256": "b18e8e2e420bee9cdc44ed6f1c7eb6cf2177a1b4c437eb8046a69f7b669501b8",
+    "frame_index": 26,
+    "frame_count": 53,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1053_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1053_DFA_FEA_XX",
+    "subject": "1053",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1053_DFA_FEA_XX.flv",
+    "video_sha256": "f1a5582b0bba7e3e6380ac0fc9f48452bf732f7d71280fbd262ce6c92cd3471f",
+    "frame_sha256": "b624679d521ebe0fc83e3b878118bf4ca2373a952adabc5d6c89e9dd39c1983d",
+    "frame_index": 28,
+    "frame_count": 57,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1053_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1053_DFA_HAP_XX",
+    "subject": "1053",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1053_DFA_HAP_XX.flv",
+    "video_sha256": "fa190dbbb51d2bbb34213c035fe7e3e7e1951e6b69821816f12290dbe5c7a615",
+    "frame_sha256": "48303bb83474b5c607063d43d3c5f6836d62e2b199663dbf1bd21178294b164a",
+    "frame_index": 33,
+    "frame_count": 66,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1053_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1053_DFA_NEU_XX",
+    "subject": "1053",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1053_DFA_NEU_XX.flv",
+    "video_sha256": "9c9262766e2ece99acfbd97c43f4fd8ed9b3a7870886b8eec21f1b43b28222cb",
+    "frame_sha256": "03e7afa3c75ed8bd22d759170d53dd59c5a2a42ca358208136de5b96afcf087a",
+    "frame_index": 24,
+    "frame_count": 49,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1053_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1053_DFA_SAD_XX",
+    "subject": "1053",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1053_DFA_SAD_XX.flv",
+    "video_sha256": "1d2331e56900cf5db8f9c831824de46dd2f29a6fc9b6cc9c4c25b685a2206182",
+    "frame_sha256": "875f8c66cf9630abeedf15528a3d06a48b52aa1111320dac1426037805fa1348",
+    "frame_index": 28,
+    "frame_count": 57,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1053_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1062_DFA_ANG_XX",
+    "subject": "1062",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1062_DFA_ANG_XX.flv",
+    "video_sha256": "a1506c5ae5ad7eb22c81c992f2d4d9f4c8fb60d7fd63b715afa556247aeb19dd",
+    "frame_sha256": "fad292b95f9149b0dc7c81ce7114a74402450d7f5d8b15d35b17d410f8f6937e",
+    "frame_index": 25,
+    "frame_count": 51,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1062_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1062_DFA_DIS_XX",
+    "subject": "1062",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1062_DFA_DIS_XX.flv",
+    "video_sha256": "2b1feb468baeec91e2f9d009d1afc65d324e29afb6bad4fed4699ab9ff83e496",
+    "frame_sha256": "65f39916a18a4711b2702d46bec49d3c90c2444f1c399d25aa025404068f9783",
+    "frame_index": 32,
+    "frame_count": 64,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1062_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1062_DFA_FEA_XX",
+    "subject": "1062",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1062_DFA_FEA_XX.flv",
+    "video_sha256": "157044048915bf462a9ff9dceb5e2ecbcc08e9d2f09dbe606862ea131221dbb6",
+    "frame_sha256": "6ab6b32f5c42fc24e73e6b78699146a9507c1bd6c79b201cbeb7db20e6833fde",
+    "frame_index": 38,
+    "frame_count": 77,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1062_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1062_DFA_HAP_XX",
+    "subject": "1062",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1062_DFA_HAP_XX.flv",
+    "video_sha256": "a48c9a27e3f6404495ba177ff1df03a99495899f4335842c3042b8dd4646c801",
+    "frame_sha256": "19f35676c39bb22f21c011e8a6c598c4df77d39ddaed4971ef6c882a0ac25a72",
+    "frame_index": 22,
+    "frame_count": 45,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1062_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1062_DFA_NEU_XX",
+    "subject": "1062",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1062_DFA_NEU_XX.flv",
+    "video_sha256": "6141f37ab0bc23bdeff46b164be4ade26c14758b17a637ac11e3d41c2a65f375",
+    "frame_sha256": "8c2ac062aa3699934b53e563596720e4477b6fdfd7fd47030f3aa825408fe6e6",
+    "frame_index": 30,
+    "frame_count": 61,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1062_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1062_DFA_SAD_XX",
+    "subject": "1062",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1062_DFA_SAD_XX.flv",
+    "video_sha256": "fcf643a695c70b0410f232213024a846a5b34aa285bbc3051873ba24a0b79542",
+    "frame_sha256": "ceb38ce6f219549e752378756481572f0ae50ac8a735bbfef949408c97916190",
+    "frame_index": 31,
+    "frame_count": 62,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1062_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1065_DFA_ANG_XX",
+    "subject": "1065",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1065_DFA_ANG_XX.flv",
+    "video_sha256": "48314d570a188803c9b50ac65429c8c95bf956fcd40d2041ddddb0d21777ba48",
+    "frame_sha256": "b7683d2ca6fb44f834e8a3b33db0159dca6e5c95218b12184b041bf1acc1c4ab",
+    "frame_index": 32,
+    "frame_count": 64,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1065_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1065_DFA_DIS_XX",
+    "subject": "1065",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1065_DFA_DIS_XX.flv",
+    "video_sha256": "1845763d41f83292889dcf168b5d8123587c99e137dbbf84a588f9adf47bac4c",
+    "frame_sha256": "6589b52c37265284c28595ed5019a5ddd7b250e4df4dbe4ce41586b72e7d10c6",
+    "frame_index": 29,
+    "frame_count": 59,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1065_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1065_DFA_FEA_XX",
+    "subject": "1065",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1065_DFA_FEA_XX.flv",
+    "video_sha256": "32ab1ad62e2230707303088d0979b171029deab404b79c1df8c6693f8fd78b59",
+    "frame_sha256": "fcf6b893319d63d61da7f1f838e1d95a01d1da4039175608e9e5101245d3fc94",
+    "frame_index": 36,
+    "frame_count": 73,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1065_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1065_DFA_HAP_XX",
+    "subject": "1065",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1065_DFA_HAP_XX.flv",
+    "video_sha256": "aab1a43e4411a88c785cbcbe7da972c9067b8c18cea65624cb6b08e932424eaf",
+    "frame_sha256": "260bf9efa5a653b3279c4b07af2c46f7e3497c5a1ae3195209e25275a6f6c7dd",
+    "frame_index": 29,
+    "frame_count": 58,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1065_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1065_DFA_NEU_XX",
+    "subject": "1065",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1065_DFA_NEU_XX.flv",
+    "video_sha256": "aa2f48dd3db6336b9bae57be790c89753968b24b56e00eec0f69afd3d6d9811d",
+    "frame_sha256": "695c7b87b6db9f7dc18a7dc69b5e7ea8cf4332e0e9cb92060de750119b0ca38a",
+    "frame_index": 32,
+    "frame_count": 64,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1065_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1065_DFA_SAD_XX",
+    "subject": "1065",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1065_DFA_SAD_XX.flv",
+    "video_sha256": "09cae2d4f718fdb6ca4b7069368409ec20ca963738a6a86020fd157ab124e9fc",
+    "frame_sha256": "1260d274d336735cd8fed3d229a54ce6052a639dc5a5820e0f7066b30d15c562",
+    "frame_index": 34,
+    "frame_count": 68,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1065_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1067_DFA_ANG_XX",
+    "subject": "1067",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1067_DFA_ANG_XX.flv",
+    "video_sha256": "6a52c8f83a815ed5408ea727302517a8b4090d01012b46d5944c88c5cde3d938",
+    "frame_sha256": "9fd04904ec5d1681b097378d4c443c7fef3dadc343dc8ea473b584f764030bc6",
+    "frame_index": 29,
+    "frame_count": 59,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1067_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1067_DFA_DIS_XX",
+    "subject": "1067",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1067_DFA_DIS_XX.flv",
+    "video_sha256": "2375f8d4c7244697b8195202806a253420806041a718cbe38588d795b4820b27",
+    "frame_sha256": "94ce6f3eedce8906812e20e86d5de326ea9dd58a2d1fa1aab5f6a9e53314453a",
+    "frame_index": 33,
+    "frame_count": 66,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1067_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1067_DFA_FEA_XX",
+    "subject": "1067",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1067_DFA_FEA_XX.flv",
+    "video_sha256": "c9275e253a245a444ef43a7547e770d4c8b5087f124951d6583b61398d8856ef",
+    "frame_sha256": "6100d6a86599532fd798157b6ceb23cd40ce519aa6ea497e9454e458a8d8764b",
+    "frame_index": 27,
+    "frame_count": 54,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1067_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1067_DFA_HAP_XX",
+    "subject": "1067",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1067_DFA_HAP_XX.flv",
+    "video_sha256": "aa477d15f3bdbde4e629eda3b146d11a33153ccd90da6d39a68cbc2025e88d9b",
+    "frame_sha256": "0f426c4f485349e5efe10e546e072f1f93f938f5f45dc28c0a7c006d1729f46b",
+    "frame_index": 30,
+    "frame_count": 60,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1067_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1067_DFA_NEU_XX",
+    "subject": "1067",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1067_DFA_NEU_XX.flv",
+    "video_sha256": "eb3a90a2df26e10b8a2ff17d8f222706cdddca6c0cf8670ba297e9bf27e496f3",
+    "frame_sha256": "eb60a2be7228233ec950cbc8f07ffbeb765631d8ba2297de4ed0779e472bb098",
+    "frame_index": 31,
+    "frame_count": 63,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1067_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1067_DFA_SAD_XX",
+    "subject": "1067",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1067_DFA_SAD_XX.flv",
+    "video_sha256": "2617f289537b615be1ec4e379f609c024976f707bbf4af980a7139a95d3ed58f",
+    "frame_sha256": "0d8ce58186cb5987152be6d7de7e47de8935914478035768dd60530c7f5083d3",
+    "frame_index": 29,
+    "frame_count": 59,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1067_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1069_DFA_ANG_XX",
+    "subject": "1069",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1069_DFA_ANG_XX.flv",
+    "video_sha256": "8a7a22cb8155da96ac13988198bdb44610ae65353cbc807db6867b0645f8a977",
+    "frame_sha256": "158f535c834de37613fb53ce66df9913bd247426297c170ffb8e95b626475b98",
+    "frame_index": 29,
+    "frame_count": 59,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1069_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1069_DFA_DIS_XX",
+    "subject": "1069",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1069_DFA_DIS_XX.flv",
+    "video_sha256": "348906e879c8506686cd5ab475d7f443ff62b358f342c260238badd3d995b5bd",
+    "frame_sha256": "f7d905fcb858346f64fc9e2d01baffbd26531947f37e4b1875df0bdd8e253218",
+    "frame_index": 26,
+    "frame_count": 53,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1069_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1069_DFA_FEA_XX",
+    "subject": "1069",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1069_DFA_FEA_XX.flv",
+    "video_sha256": "0e066c3dece0b5d45f641162c5a29e78df726877498ed6ca2ac70183b71d88f9",
+    "frame_sha256": "59262cb061e7d50ab5b49f939bbd895e9c98b45b366bc65e3109401aeb1dce3d",
+    "frame_index": 35,
+    "frame_count": 70,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1069_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1069_DFA_HAP_XX",
+    "subject": "1069",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1069_DFA_HAP_XX.flv",
+    "video_sha256": "5d4c094bc83814f8ffc332a056cdb506fada748ce9973028696c110183e28417",
+    "frame_sha256": "fcb79d1e7dd397ed5927e5ed7c288d229c2cd7c6d4a32c8a192857f98ac7938b",
+    "frame_index": 27,
+    "frame_count": 55,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1069_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1069_DFA_NEU_XX",
+    "subject": "1069",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1069_DFA_NEU_XX.flv",
+    "video_sha256": "0b8c2ec20bf52406e44787f8959be13131ddd1f4da60148c857f0db1513c448d",
+    "frame_sha256": "e9f8f59c64ac22b559faee4960ee0cdc325ad5296c33dd2efbca0a88a210ccdb",
+    "frame_index": 33,
+    "frame_count": 67,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1069_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1069_DFA_SAD_XX",
+    "subject": "1069",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1069_DFA_SAD_XX.flv",
+    "video_sha256": "0c5e1a2bb71fbfa5b6d431d401f3d6346030fdac3f39710d6c78c851fd16e054",
+    "frame_sha256": "96dd88b76c46c398a4be048a42502adacdcb3ac4e8d1e06add2ed593eb9c6735",
+    "frame_index": 25,
+    "frame_count": 50,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1069_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1077_DFA_ANG_XX",
+    "subject": "1077",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1077_DFA_ANG_XX.flv",
+    "video_sha256": "83e97de3237532286fa19be9b4d0c32154fce4908698663e525e8de61b44774b",
+    "frame_sha256": "55e5da88e765bcac809920c650b866e33318e04ec4a8810bae2edfc8201e09a4",
+    "frame_index": 37,
+    "frame_count": 74,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1077_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1077_DFA_DIS_XX",
+    "subject": "1077",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1077_DFA_DIS_XX.flv",
+    "video_sha256": "d417db293e8f8a0f8a4971c69f983887a23692e314639fb05de07e71d0b400ed",
+    "frame_sha256": "d2e011a7b5c2fdd728d62424b658a64b8901ee0a7d7a1ccf7ba568cfe575a239",
+    "frame_index": 32,
+    "frame_count": 65,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1077_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1077_DFA_FEA_XX",
+    "subject": "1077",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1077_DFA_FEA_XX.flv",
+    "video_sha256": "a14b4254193f1a5870cd96cb1b371dca077fd8ce73c0cc0ecaf0c4534fe0e36d",
+    "frame_sha256": "c64b16677741a124fe17a781bf527e426da9a19f456588d44bf0c8ed5e67d1d6",
+    "frame_index": 41,
+    "frame_count": 82,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1077_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1077_DFA_HAP_XX",
+    "subject": "1077",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1077_DFA_HAP_XX.flv",
+    "video_sha256": "8603b884be0d7d7347547121cb0563d1f141d9ba46a768839d39f0556881efa5",
+    "frame_sha256": "63153f5847bbc98ec6de41a559213b50d26ffff9abafb0aeff0fcb3875df5c55",
+    "frame_index": 37,
+    "frame_count": 74,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1077_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1077_DFA_NEU_XX",
+    "subject": "1077",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1077_DFA_NEU_XX.flv",
+    "video_sha256": "184f45b5a57d7c2b2fdd353c7a2bd6508217a910e8c65f79ef309f0dd3192a78",
+    "frame_sha256": "e753c9156ec1f6f24c413b618c051ddf5b39061dad212012d553b22077131a31",
+    "frame_index": 33,
+    "frame_count": 66,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1077_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1077_DFA_SAD_XX",
+    "subject": "1077",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1077_DFA_SAD_XX.flv",
+    "video_sha256": "dc4f7e784dad7f079571fb7d6d271f8f36329f142f979de1e194c14757edc052",
+    "frame_sha256": "27725e6cc95a40d524ade976e4d867c172eca222fb6d8674d972a2b063d624ad",
+    "frame_index": 29,
+    "frame_count": 58,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1077_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1085_DFA_ANG_XX",
+    "subject": "1085",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1085_DFA_ANG_XX.flv",
+    "video_sha256": "96c9c94328e7ed4e4c6914035bdc2a08ed8acd929aea48f077e214632cdc8731",
+    "frame_sha256": "776dfcd5294a3c70c9aab2d003ef0842edeca948a4e6b6544bfc98953c885154",
+    "frame_index": 33,
+    "frame_count": 67,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1085_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1085_DFA_DIS_XX",
+    "subject": "1085",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1085_DFA_DIS_XX.flv",
+    "video_sha256": "6876c44c667321a8e40e9b86689e764d084526211f94dbd7af9ff8076dc4afad",
+    "frame_sha256": "cb21689b62d24a1cae082f476d672662f3214dc5233ef620c7e92bacabad2cb9",
+    "frame_index": 43,
+    "frame_count": 86,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1085_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1085_DFA_FEA_XX",
+    "subject": "1085",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1085_DFA_FEA_XX.flv",
+    "video_sha256": "52573976a98ecf6fcc58f5c4a311d1b9b09aa963071b10455e3bf1f3ae888015",
+    "frame_sha256": "0ed55235d5e45569b0ef67a8a3f744576273b5360dc4113f892dee9d4e73b244",
+    "frame_index": 39,
+    "frame_count": 79,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1085_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1085_DFA_HAP_XX",
+    "subject": "1085",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1085_DFA_HAP_XX.flv",
+    "video_sha256": "55056dc95529dad276327619869147c56f01cf228ddbd189c65a2a33122aea14",
+    "frame_sha256": "8bde37d3ed252ca018daaff12234915fb9cc9f509f8548cd84b6f9a6af36a11f",
+    "frame_index": 27,
+    "frame_count": 54,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1085_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1085_DFA_NEU_XX",
+    "subject": "1085",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1085_DFA_NEU_XX.flv",
+    "video_sha256": "173db0f96f5ccc0befb3dc47fafa7ed75d5282dd50be384380161df296ae4d20",
+    "frame_sha256": "8a1d7a2e34b0a469daea944733889cb572438ae18cb7cf92c3159f397a1bfcc7",
+    "frame_index": 31,
+    "frame_count": 63,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1085_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1085_DFA_SAD_XX",
+    "subject": "1085",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1085_DFA_SAD_XX.flv",
+    "video_sha256": "e4666c8b0b4978ccdb639b874e3de0e954476276afdf94d139ccdbc5c62420fe",
+    "frame_sha256": "db98a7daadbfc58644511d61b44a44eddcb803400758c0dcff14cda1c88b94f2",
+    "frame_index": 34,
+    "frame_count": 69,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1085_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1087_DFA_ANG_XX",
+    "subject": "1087",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1087_DFA_ANG_XX.flv",
+    "video_sha256": "971892dbf2065e9edf5ab87a695632d5c8c5eee76c85e29cbd06db446cff286a",
+    "frame_sha256": "cb43594e0e586792fb7cad82a2f8b0508169510a53f9b802e67c021823a64eaf",
+    "frame_index": 36,
+    "frame_count": 72,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1087_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1087_DFA_DIS_XX",
+    "subject": "1087",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1087_DFA_DIS_XX.flv",
+    "video_sha256": "d0f317ce878d421af12e861ec8eda5423069893ffc4f8c1c2bfb3c285d448418",
+    "frame_sha256": "a890356a4a713f5ca7af3f86bd35ec2987fefe84a2cf7ae0f2e162bd6833211d",
+    "frame_index": 45,
+    "frame_count": 91,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1087_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1087_DFA_FEA_XX",
+    "subject": "1087",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1087_DFA_FEA_XX.flv",
+    "video_sha256": "0bc26130797ce689816f269bcb75ca8083c1d0cb23a0f93f46391b5c1847e10d",
+    "frame_sha256": "1d90c01731399bd94adee38a89253e8c9f87cd57ff9d9b8b3f9369b3c0ddb034",
+    "frame_index": 37,
+    "frame_count": 74,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1087_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1087_DFA_HAP_XX",
+    "subject": "1087",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1087_DFA_HAP_XX.flv",
+    "video_sha256": "4ec2992f63e0cdda89d101f950c3e0752338deafc96c9b9356a72dee6e5c8c75",
+    "frame_sha256": "e26f6dc3c12e0c4bdbcf3cbb92c3389206467a48fd423beacd8db29eb7fe0420",
+    "frame_index": 38,
+    "frame_count": 76,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1087_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1087_DFA_NEU_XX",
+    "subject": "1087",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1087_DFA_NEU_XX.flv",
+    "video_sha256": "5cde188a2488498f589edcffbe6b3d0737d78ad29ba644ff05776273aa9499a8",
+    "frame_sha256": "8b65efc08231f4f862d89258a3cdc2c2b38effceb5373aa93835cda07ca2a342",
+    "frame_index": 36,
+    "frame_count": 72,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1087_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1087_DFA_SAD_XX",
+    "subject": "1087",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1087_DFA_SAD_XX.flv",
+    "video_sha256": "7146a5b78e2d55a8991513743387616957bcb6c8ede48f71cd8091ae7de7b891",
+    "frame_sha256": "f5c8bde3d58ce5e33dba4fc19a24830b34a080d6f442093384a76a8cbf39e4ab",
+    "frame_index": 35,
+    "frame_count": 71,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1087_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1089_DFA_ANG_XX",
+    "subject": "1089",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1089_DFA_ANG_XX.flv",
+    "video_sha256": "92ae4fcdee7d67af739049a2d5b95bb58cd2210568ed45890cdaa06f751651bb",
+    "frame_sha256": "1a6482903a6a76caf8165f4eec62e7252585040e86f47e2393d45191f6a63fbb",
+    "frame_index": 29,
+    "frame_count": 58,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1089_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1089_DFA_DIS_XX",
+    "subject": "1089",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1089_DFA_DIS_XX.flv",
+    "video_sha256": "25955475c800afc6b6319fbe82e5c77389d79d74a358221606f927d9f788524d",
+    "frame_sha256": "da3c43eef128ca57ee2a9b6c9678e8114f334298002461602a8b1c2b9aeb741b",
+    "frame_index": 40,
+    "frame_count": 80,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1089_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1089_DFA_FEA_XX",
+    "subject": "1089",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1089_DFA_FEA_XX.flv",
+    "video_sha256": "c4dbc2d673b3a37ca21e3fea56d3413c0ffe4764f0043d3304f38b8e990ec1fc",
+    "frame_sha256": "2e9ba3e1b61a25a1f2d8baf71ec89e70dd3dd60be049d8defae3dc1242764153",
+    "frame_index": 37,
+    "frame_count": 75,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1089_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1089_DFA_HAP_XX",
+    "subject": "1089",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1089_DFA_HAP_XX.flv",
+    "video_sha256": "5bd66e9e59dbab2c0321936240ef8a75778ff1437303104c6cba2b155034f0a3",
+    "frame_sha256": "2d44f0aaea84a8de1c456354953ec399b6eb2f54d9888781989df242d4a66311",
+    "frame_index": 37,
+    "frame_count": 74,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1089_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1089_DFA_NEU_XX",
+    "subject": "1089",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1089_DFA_NEU_XX.flv",
+    "video_sha256": "13d267d5b8c10d0c89889fd98728a4457ef5006e372f241b855cad9e74cdc2df",
+    "frame_sha256": "5e649aaf4a3f025e43498487937c32a5dc07e1a330e52d5750045febffb1b28d",
+    "frame_index": 31,
+    "frame_count": 63,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1089_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1089_DFA_SAD_XX",
+    "subject": "1089",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1089_DFA_SAD_XX.flv",
+    "video_sha256": "63c347296438b213483a3d3279f9fddbd92207e9637ad7c4bcaadfeaca0d4b03",
+    "frame_sha256": "9b5d1f9c3e8276d9626ce5ac1495ad90ed3d4fc7d9e760cb8bde4afc44fc8215",
+    "frame_index": 33,
+    "frame_count": 66,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1089_DFA_SAD_XX.png"
+  },
+  {
+    "id": "1091_DFA_ANG_XX",
+    "subject": "1091",
+    "label": "angry",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1091_DFA_ANG_XX.flv",
+    "video_sha256": "22b584b7f58673c5793fae7494cf1dc0777233265128f985aea98751e91ac08e",
+    "frame_sha256": "e4ff42c7032bd780a5e3cacce3786a3ee30680fe81313ac3d4e754bff32a76e5",
+    "frame_index": 30,
+    "frame_count": 60,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1091_DFA_ANG_XX.png"
+  },
+  {
+    "id": "1091_DFA_DIS_XX",
+    "subject": "1091",
+    "label": "disgust",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1091_DFA_DIS_XX.flv",
+    "video_sha256": "401ea0e54e9de5f7e4b9c59951852927756facb2619a9a19205fa692d8552139",
+    "frame_sha256": "03855b003cf447101fc7b8beb91e131ac92646081090408586cbbb97728d704d",
+    "frame_index": 40,
+    "frame_count": 80,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1091_DFA_DIS_XX.png"
+  },
+  {
+    "id": "1091_DFA_FEA_XX",
+    "subject": "1091",
+    "label": "fear",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1091_DFA_FEA_XX.flv",
+    "video_sha256": "bd62a89a92b0f447d3e6f427b5d2e07ffb2e380e03563b6131119f29973eb7b4",
+    "frame_sha256": "9c63b489aa19a04daa43d8693eb00e6a5b976cd3415cd17448431ac1ca8353b2",
+    "frame_index": 30,
+    "frame_count": 60,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1091_DFA_FEA_XX.png"
+  },
+  {
+    "id": "1091_DFA_HAP_XX",
+    "subject": "1091",
+    "label": "happy",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1091_DFA_HAP_XX.flv",
+    "video_sha256": "cd2e821cdede870e97d8b8ccae212a32d0c82c507278d4fafd30e0e07732af8b",
+    "frame_sha256": "80855b10f8cf9660d0cb2da1ef6b47be3741eff8f0fe5a693f8fe80b18f3e616",
+    "frame_index": 30,
+    "frame_count": 60,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1091_DFA_HAP_XX.png"
+  },
+  {
+    "id": "1091_DFA_NEU_XX",
+    "subject": "1091",
+    "label": "neutral",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1091_DFA_NEU_XX.flv",
+    "video_sha256": "d1563a408056ad922b2388b89d74cab7c53dc0c88e765cbc78d1d87bd01b5b89",
+    "frame_sha256": "da6bfec443610f2d6eebb9c991319ca80c49be0cd7e82b3c39802c1772938340",
+    "frame_index": 30,
+    "frame_count": 60,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1091_DFA_NEU_XX.png"
+  },
+  {
+    "id": "1091_DFA_SAD_XX",
+    "subject": "1091",
+    "label": "sad",
+    "url": "https://media.githubusercontent.com/media/CheyneyComputerScience/CREMA-D/1658cd342dff90010aa843eaeebd53610a08b1dc/VideoFlash/1091_DFA_SAD_XX.flv",
+    "video_sha256": "b4e1a804aa685fa96905f4a07be678067fd2a878926fd1301be82d79e17b25f4",
+    "frame_sha256": "d758c5bc6729410ca44393e306a682acde3a2ba2590dc71515aa7a2dc7fb320d",
+    "frame_index": 30,
+    "frame_count": 60,
+    "shape": [
+      360,
+      480
+    ],
+    "frame": "data/frames/1091_DFA_SAD_XX.png"
+  }
+]
