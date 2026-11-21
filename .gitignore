@@ -26,28 +26,3 @@ results/*
 *.tmp
 .DS_Store
 Thumbs.db
-
-# Local Python environments
-.venv/
-venv/
-__pycache__/
-.pytest_cache/
-
-# Local evaluation results
-results/
-
-# Datasets requiring separate redistribution permission
-datasets/local_library/
-
-# Trained checkpoint pending redistribution clearance
-model/clean_btn_vit_phase12.pt
-
-# Private credentials
-.env
-.env.*
-*.pem
-*.key
-
-# Temporary files
-*.log
-*.tmp
