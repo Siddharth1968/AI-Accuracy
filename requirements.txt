@@ -1,0 +1,14 @@
+# VibeShift Standalone AI Accuracy Evaluator - Minimal Python Dependencies (Python 3.10-3.12)
+# Console-only evaluation stack: no web servers, no frontend frameworks, no GUI.
+#
+# NVIDIA CUDA 12.6 GPU (installed automatically by setup.bat when compatible GPU is detected):
+#   pip install torch==2.10.0+cu126 --index-url https://download.pytorch.org/whl/cu126
+#   pip install -r requirements.txt
+#
+# CPU-Only Fallback:
+#   pip install -r requirements.txt
+
+numpy>=2.0.0,<3.0.0
+opencv-python-headless>=4.10.0,<5.0.0
+matplotlib>=3.9.0,<4.0.0
+torch>=2.5.0

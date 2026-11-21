@@ -1,0 +1,53 @@
+# Python virtual environments & caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.egg-info/
+
+# Trained model checkpoint without confirmed public redistribution rights
+model/clean_btn_vit_phase12.pt
+model/*.pt
+model/*.pth
+
+# Local academic dataset library (non-redistributable / restricted datasets)
+datasets/local_library/
+
+# Manual user-supplied private test images (preserve empty 7-class folder structure)
+dataset/*/*
+!dataset/*/.gitkeep
+
+# Evaluation run outputs & temporary files
+results/*
+!results/.gitkeep
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Local Python environments
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+
+# Local evaluation results
+results/
+
+# Datasets requiring separate redistribution permission
+datasets/local_library/
+
+# Trained checkpoint pending redistribution clearance
+model/clean_btn_vit_phase12.pt
+
+# Private credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Temporary files
+*.log
+*.tmp

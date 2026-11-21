@@ -1,0 +1,553 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-11-21T22:52:00+05:30",
+  "canonical_labels": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "datasets": {
+    "dataset": {
+      "display_name": "Manual User Test Dataset (dataset/)",
+      "adapter": "image_folder",
+      "local_path": "dataset",
+      "original_paths": [
+        "dataset"
+      ],
+      "copied": true,
+      "image_format": "JPG / JPEG / PNG / BMP / WEBP (user-supplied)",
+      "resolution": "Variable (user-supplied)",
+      "default_protocol": "pre_cropped",
+      "supported_protocols": [
+        "pre_cropped",
+        "full_photo"
+      ],
+      "label_mapping": {
+        "angry": "angry",
+        "disgust": "disgust",
+        "fear": "fear",
+        "happy": "happy",
+        "neutral": "neutral",
+        "sad": "sad",
+        "surprise": "surprise"
+      },
+      "splits": {
+        "default": {
+          "description": "Empty 7-class folder for manually supplied test images",
+          "expected_images": 0,
+          "used_for_training": false,
+          "used_for_checkpoint_selection": false,
+          "previously_inspected": false,
+          "independence_status": "MANUAL_USER_DATASET",
+          "suitable_for_independent_test": true,
+          "disclosure": "User-supplied manual folder. Independence depends on the provenance of images placed here."
+        }
+      },
+      "provenance": "User-supplied local folder",
+      "license_status": "User-owned / varies by supplied images",
+      "public_redistribution_allowed": false,
+      "teammate_sharing_allowed": "Depends on user-supplied images"
+    },
+    "FER2013": {
+      "display_name": "FER-2013 (Kaggle msambare/fer2013 v1)",
+      "adapter": "fer2013",
+      "local_path": "datasets/local_library/FER2013",
+      "original_paths": [
+        "C:\\VibeShift-Datasets\\FER2013",
+        "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\efficientnet-advanced\\split.csv",
+        "C:\\VibeShift-Datasets\\FER2013\\development-phase6\\selection.csv"
+      ],
+      "duplicate_locations": [
+        "C:\\VibeShift-Datasets\\downloads\\msambare-fer2013-v1.zip (60.34 MB, SHA-256 9f3422c7a45b676c2965ef4fc5f3099932aa98fd13eaaa2c254f620a9894a6e9)",
+        "C:\\VibeShift-Datasets\\FER2013\\development\\development-pixels.npz (derived pixel cache)",
+        "C:\\VibeShift-Datasets\\FER2013\\development-phase6\\development-pixels.npz (derived pixel cache)"
+      ],
+      "copied": true,
+      "version": "ICML 2013 / Kaggle msambare/fer2013 v1",
+      "total_images": 35887,
+      "image_format": "JPG (1-channel uint8 grayscale)",
+      "resolution": "48x48",
+      "disk_size_mb_approx": 56.64,
+      "default_protocol": "pre_cropped",
+      "supported_protocols": [
+        "pre_cropped"
+      ],
+      "annotation_format": "Class-named directories + filename prefix (PublicTest_/PrivateTest_) + research split CSVs",
+      "label_mapping": {
+        "angry": "angry",
+        "disgust": "disgust",
+        "fear": "fear",
+        "happy": "happy",
+        "neutral": "neutral",
+        "sad": "sad",
+        "surprise": "surprise"
+      },
+      "splits": {
+        "PrivateTest": {
+          "mode": "prefix",
+          "subdir": "test",
+          "prefix": "PrivateTest_",
+          "description": "Official FER2013 PrivateTest partition (filename-verified)",
+          "expected_images": 3589,
+          "class_counts": {
+            "angry": 491,
+            "disgust": 55,
+            "fear": 528,
+            "happy": 879,
+            "neutral": 626,
+            "sad": 594,
+            "surprise": 416
+          },
+          "used_for_training": false,
+          "used_for_checkpoint_selection": false,
+          "previously_inspected": false,
+          "independence_status": "INDEPENDENT_TEST_FOR_PHASE12",
+          "suitable_for_independent_test": true,
+          "disclosure": "Strictly untouched during CleanBTNVit Phase 12 training and checkpoint selection. Note: dataset-report.json records 53 corpus-inherent overlap images between FER2013 PublicTest and PrivateTest (and 439 raw train-to-private matches that were quarantined out of Train22757)."
+        },
+        "PublicTest": {
+          "mode": "prefix",
+          "subdir": "test",
+          "prefix": "PublicTest_",
+          "description": "Official FER2013 PublicTest partition (all 3,589 images)",
+          "expected_images": 3589,
+          "class_counts": {
+            "angry": 467,
+            "disgust": 56,
+            "fear": 496,
+            "happy": 895,
+            "neutral": 607,
+            "sad": 653,
+            "surprise": 415
+          },
+          "used_for_training": false,
+          "used_for_checkpoint_selection": true,
+          "previously_inspected": true,
+          "independence_status": "PREVIOUSLY_INSPECTED_IN_EARLIER_PHASES",
+          "suitable_for_independent_test": false,
+          "disclosure": "Untouched during Phase 12 training, but previously inspected in Phases 6 and 8."
+        },
+        "PublicTest_Clean3536": {
+          "mode": "csv",
+          "csv_path": "metadata/selection_phase6.csv",
+          "csv_split_value": "validation",
+          "description": "PublicTest excluding 53 possible PrivateTest overlaps (Phase 6/8 cohort)",
+          "expected_images": 3536,
+          "class_counts": {
+            "angry": 460,
+            "disgust": 55,
+            "fear": 492,
+            "happy": 890,
+            "neutral": 601,
+            "sad": 648,
+            "surprise": 390
+          },
+          "used_for_training": false,
+          "used_for_checkpoint_selection": true,
+          "previously_inspected": true,
+          "independence_status": "PREVIOUSLY_INSPECTED_IN_EARLIER_PHASES",
+          "suitable_for_independent_test": false,
+          "disclosure": "Untouched during Phase 12 training, but previously inspected in Phases 6 and 8."
+        },
+        "DevHoldout4015": {
+          "mode": "csv",
+          "csv_path": "metadata/split.csv",
+          "csv_split_value": "validation",
+          "description": "Reused 4,015-image Training-derived development holdout (Phases 8-12)",
+          "expected_images": 4015,
+          "class_counts": {
+            "angry": 561,
+            "disgust": 52,
+            "fear": 564,
+            "happy": 1054,
+            "neutral": 721,
+            "sad": 698,
+            "surprise": 365
+          },
+          "used_for_training": false,
+          "used_for_checkpoint_selection": true,
+          "previously_inspected": true,
+          "independence_status": "REUSED_DEV_HOLDOUT",
+          "suitable_for_independent_test": false,
+          "disclosure": "NOT an independent test set. Heavily reused for model selection and checkpoint soup tuning across Phases 8-12."
+        },
+        "Train22757": {
+          "mode": "csv",
+          "csv_path": "metadata/split.csv",
+          "csv_split_value": "train",
+          "description": "CleanBTNVit Phase 12 training partition (22,757 deduplicated Training images)",
+          "expected_images": 22757,
+          "class_counts": {
+            "angry": 3182,
+            "disgust": 298,
+            "fear": 3194,
+            "happy": 5974,
+            "neutral": 4087,
+            "sad": 3954,
+            "surprise": 2068
+          },
+          "used_for_training": true,
+          "used_for_checkpoint_selection": false,
+          "previously_inspected": true,
+          "independence_status": "TRAINING_DATA",
+          "suitable_for_independent_test": false,
+          "disclosure": "TRAINING DATA LEAKAGE: Used directly to train CleanBTNVit Phase 12. Never report as test accuracy."
+        },
+        "AllTest7178": {
+          "mode": "folder",
+          "subdir": "test",
+          "description": "Combined FER2013 test folder (PublicTest 3,589 + PrivateTest 3,589)",
+          "expected_images": 7178,
+          "class_counts": {
+            "angry": 958,
+            "disgust": 111,
+            "fear": 1024,
+            "happy": 1774,
+            "neutral": 1233,
+            "sad": 1247,
+            "surprise": 831
+          },
+          "used_for_training": false,
+          "used_for_checkpoint_selection": true,
+          "previously_inspected": true,
+          "independence_status": "MIXED_PUBLIC_AND_PRIVATE_TEST",
+          "suitable_for_independent_test": false,
+          "disclosure": "Combines previously inspected PublicTest (3,589) with PrivateTest (3,589). Prefer evaluating PrivateTest separately."
+        },
+        "AllTrain28709": {
+          "mode": "folder",
+          "subdir": "train",
+          "description": "Complete FER2013 train folder (includes Train22757, DevHoldout4015, and 1,937 quarantined items)",
+          "expected_images": 28709,
+          "class_counts": {
+            "angry": 3995,
+            "disgust": 436,
+            "fear": 4097,
+            "happy": 7215,
+            "neutral": 4965,
+            "sad": 4830,
+            "surprise": 3171
+          },
+          "used_for_training": true,
+          "used_for_checkpoint_selection": true,
+          "previously_inspected": true,
+          "independence_status": "TRAINING_DATA",
+          "suitable_for_independent_test": false,
+          "disclosure": "TRAINING DATA LEAKAGE: Contains the training and dev partitions plus quarantined duplicates."
+        }
+      },
+      "provenance": "ICML 2013 Representation Learning Challenge (FER-2013), Kaggle msambare/fer2013",
+      "license_status": "Kaggle DbCL-1.0 metadata; original web-scraped images lack individual model releases (academic research benchmark)",
+      "public_redistribution_allowed": false,
+      "teammate_sharing_allowed": "Not confirmed — teammates should download directly from Kaggle msambare/fer2013"
+    },
+    "ExpW_Eval1400": {
+      "display_name": "ExpW Balanced Full-Scene Subset (1,400 images)",
+      "adapter": "expw_manifest",
+      "local_path": "datasets/local_library/ExpW_Eval1400",
+      "original_paths": [
+        "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\cross-dataset\\dataset\\images\\origin",
+        "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\cross-dataset\\sample-manifest.json",
+        "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\cross-dataset\\expw-label.lst",
+        "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\cross-dataset\\expw-readme.txt"
+      ],
+      "duplicate_locations": [
+        "Subset extracted from C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\cross-dataset\\dataset\\archives\\origin.7z.001..008 (7.56 GB, not copied)"
+      ],
+      "copied": true,
+      "version": "CUHK MMLab ExpW (Zhang et al., 2016) — balanced 1,400-image seed 20261121 sample",
+      "total_images": 1400,
+      "image_format": "JPG (RGB full-scene photographs)",
+      "resolution": "Variable (~200x200 to 1600x1600)",
+      "disk_size_mb_approx": 88.19,
+      "default_protocol": "full_photo",
+      "supported_protocols": [
+        "full_photo",
+        "pre_cropped"
+      ],
+      "annotation_format": "sample-manifest.json + official expw-label.lst (bounding box + ExpW numeric label 0..6)",
+      "original_label_order": {
+        "0": "angry",
+        "1": "disgust",
+        "2": "fear",
+        "3": "happy",
+        "4": "sad",
+        "5": "surprise",
+        "6": "neutral"
+      },
+      "label_mapping": {
+        "0": "angry",
+        "1": "disgust",
+        "2": "fear",
+        "3": "happy",
+        "4": "sad",
+        "5": "surprise",
+        "6": "neutral"
+      },
+      "splits": {
+        "full_photo": {
+          "crop_mode": "yunet_full_photo",
+          "description": "1,400 full-scene ExpW photographs evaluated end-to-end with YuNet face detection",
+          "expected_images": 1400,
+          "class_counts": {
+            "angry": 200,
+            "disgust": 200,
+            "fear": 200,
+            "happy": 200,
+            "neutral": 200,
+            "sad": 200,
+            "surprise": 200
+          },
+          "used_for_training": false,
+          "used_for_checkpoint_selection": false,
+          "previously_inspected": true,
+          "independence_status": "CROSS_DATASET_PREVIOUSLY_INSPECTED_BY_EARLIER_MODELS",
+          "suitable_for_independent_test": true,
+          "disclosure": "Strictly excluded from CleanBTNVit Phase 12 ExpW training (audit.json: excluded_eval_source_images=1400). Previously evaluated by earlier project models (not Phase 12 CleanBTNVit). Balanced class sampling differs from native ExpW prevalence."
+        },
+        "annotated_crops": {
+          "crop_mode": "annotated_box",
+          "description": "1,400 target faces cropped directly from official ExpW ground-truth bounding boxes",
+          "expected_images": 1400,
+          "class_counts": {
+            "angry": 200,
+            "disgust": 200,
+            "fear": 200,
+            "happy": 200,
+            "neutral": 200,
+            "sad": 200,
+            "surprise": 200
+          },
+          "used_for_training": false,
+          "used_for_checkpoint_selection": false,
+          "previously_inspected": true,
+          "independence_status": "CROSS_DATASET_PREVIOUSLY_INSPECTED_BY_EARLIER_MODELS",
+          "suitable_for_independent_test": true,
+          "disclosure": "Uses official ExpW annotated bounding boxes (isolates classifier accuracy from YuNet detection). Strictly excluded from Phase 12 training; previously inspected by earlier project models."
+        }
+      },
+      "provenance": "CUHK MMLab ExpW (Zhang et al., arXiv:1609.06426v2)",
+      "license_status": "Non-commercial academic and educational research only; authors disclaim copyright on web images",
+      "public_redistribution_allowed": false,
+      "teammate_sharing_allowed": "Not established — teammates should obtain directly from CUHK MMLab"
+    },
+    "ExpW_Phase12_TrainClean5962": {
+      "display_name": "ExpW Cleaned Supplementary Training Set (5,962 crops)",
+      "adapter": "expw_npz",
+      "local_path": "datasets/local_library/ExpW_Phase12_TrainClean5962",
+      "original_paths": [
+        "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\maximum-accuracy\\phase11_expw"
+      ],
+      "copied": true,
+      "version": "Phase 11/12 deduplicated 48x48 grayscale ExpW face crops (NPZ SHA-256 653ce501622123ee747ffae0870f19fb9c98a3a59c6fa5b63cdade522689c930)",
+      "total_images": 5962,
+      "image_format": "NPZ uint8 grayscale array (5962, 48, 48)",
+      "resolution": "48x48",
+      "disk_size_mb_approx": 13.25,
+      "default_protocol": "pre_cropped",
+      "supported_protocols": [
+        "pre_cropped"
+      ],
+      "annotation_format": "NumPy NPZ array ('images', 'labels') mapped to canonical 0..6 indices",
+      "label_mapping": {
+        "0": "angry",
+        "1": "disgust",
+        "2": "fear",
+        "3": "happy",
+        "4": "neutral",
+        "5": "sad",
+        "6": "surprise"
+      },
+      "splits": {
+        "train_clean": {
+          "npz_file": "expw_clean_48.npz",
+          "description": "5,962 ExpW face crops used in CleanBTNVit Phase 12 Stage 1 soft-KD training",
+          "expected_images": 5962,
+          "class_counts": {
+            "angry": 941,
+            "disgust": 1001,
+            "fear": 500,
+            "happy": 749,
+            "neutral": 916,
+            "sad": 1087,
+            "surprise": 768
+          },
+          "used_for_training": true,
+          "used_for_checkpoint_selection": false,
+          "previously_inspected": true,
+          "independence_status": "TRAINING_DATA",
+          "suitable_for_independent_test": false,
+          "disclosure": "TRAINING DATA LEAKAGE: Used in CleanBTNVit Phase 12 Stage 1 soft-KD training. Never report as independent test accuracy."
+        }
+      },
+      "provenance": "Derived from CUHK MMLab ExpW via phase11_prep_expw.py",
+      "license_status": "CUHK MMLab ExpW non-commercial academic research terms",
+      "public_redistribution_allowed": false,
+      "teammate_sharing_allowed": "Not established"
+    },
+    "JAFFE": {
+      "display_name": "JAFFE Official v2 (213 posed portraits)",
+      "adapter": "jaffe_filename",
+      "local_path": "datasets/local_library/JAFFE",
+      "original_paths": [
+        "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\kdef-evaluation\\dataset\\jaffe",
+        "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\kdef-evaluation\\dataset\\README_FIRST.txt",
+        "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\kdef-evaluation\\manifest.json"
+      ],
+      "duplicate_locations": [
+        "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\kdef-evaluation\\jaffe.zip (12.29 MB, SHA-256 6da27f5954f969c6f65d782911834dd66827ec3580e79b95073eb6cb93de5c3b)"
+      ],
+      "copied": true,
+      "version": "Official JAFFE v2 (Zenodo DOI 10.5281/zenodo.14974867)",
+      "total_images": 213,
+      "image_format": "TIFF (256x256 uint8; 212 grayscale + 1 RGB)",
+      "resolution": "256x256",
+      "disk_size_mb_approx": 13.46,
+      "default_protocol": "full_photo",
+      "supported_protocols": [
+        "full_photo",
+        "pre_cropped"
+      ],
+      "annotation_format": "Official README_FIRST.txt filename pose codes (SUBJ.<CODE><NUM>.<ID>.tiff)",
+      "label_mapping": {
+        "AN": "angry",
+        "DI": "disgust",
+        "FE": "fear",
+        "HA": "happy",
+        "NE": "neutral",
+        "SA": "sad",
+        "SU": "surprise"
+      },
+      "splits": {
+        "all": {
+          "subdir": "images",
+          "description": "All 213 posed portraits across 10 Japanese female subjects",
+          "expected_images": 213,
+          "class_counts": {
+            "angry": 30,
+            "disgust": 29,
+            "fear": 32,
+            "happy": 31,
+            "neutral": 30,
+            "sad": 31,
+            "surprise": 30
+          },
+          "used_for_training": false,
+          "used_for_checkpoint_selection": false,
+          "previously_inspected": true,
+          "independence_status": "CROSS_DATASET_PREVIOUSLY_INSPECTED_BY_EARLIER_MODELS",
+          "suitable_for_independent_test": true,
+          "disclosure": "Untouched during CleanBTNVit Phase 12 training and selection. Previously evaluated by earlier project models in VIBESHIFT_KDEF_ACCURACY_REPORT.md. Small posed single-demographic dataset (10 female posers)."
+        }
+      },
+      "provenance": "Lyons, Kamachi, Gyoba (1997), Zenodo DOI 10.5281/zenodo.14974867",
+      "license_status": "Non-commercial scientific research only; redistribution explicitly prohibited (including GitHub/Kaggle)",
+      "public_redistribution_allowed": false,
+      "teammate_sharing_allowed": "PROHIBITED — teammates must download directly from Zenodo DOI 10.5281/zenodo.14974867"
+    },
+    "CREMA_D_Frames144": {
+      "display_name": "CREMA-D 144-Frame Extracted Subset (6 classes, no surprise)",
+      "adapter": "cremad_manifest",
+      "local_path": "datasets/local_library/CREMA_D_Frames144",
+      "original_paths": [
+        "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\phase4\\data\\frames",
+        "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\phase4\\data\\LICENSE.txt",
+        "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\phase4\\data\\SentenceFilenames.csv",
+        "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\phase4\\data\\tabulatedVotes.csv",
+        "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\phase4\\results\\frame-manifest.json"
+      ],
+      "duplicate_locations": [
+        "Source video clips at C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\phase4\\data\\clips\\*.flv (38.29 MB, not copied)"
+      ],
+      "copied": true,
+      "version": "CheyneyComputerScience/CREMA-D middle-frame 144-clip subset",
+      "total_images": 144,
+      "image_format": "PNG (480x360 uint8 RGB full-scene video frames)",
+      "resolution": "480x360",
+      "disk_size_mb_approx": 26.23,
+      "default_protocol": "full_photo",
+      "supported_protocols": [
+        "full_photo",
+        "pre_cropped"
+      ],
+      "annotation_format": "frame-manifest.json (6 acted emotion classes; surprise absent)",
+      "label_mapping": {
+        "angry": "angry",
+        "disgust": "disgust",
+        "fear": "fear",
+        "happy": "happy",
+        "neutral": "neutral",
+        "sad": "sad"
+      },
+      "splits": {
+        "all": {
+          "manifest_file": "frame-manifest.json",
+          "description": "144 extracted full-scene video frames across 6 emotion classes (surprise has 0 support)",
+          "expected_images": 144,
+          "class_counts": {
+            "angry": 24,
+            "disgust": 24,
+            "fear": 24,
+            "happy": 24,
+            "neutral": 24,
+            "sad": 24,
+            "surprise": 0
+          },
+          "used_for_training": false,
+          "used_for_checkpoint_selection": false,
+          "previously_inspected": true,
+          "independence_status": "CROSS_DATASET_PREVIOUSLY_INSPECTED_BY_EARLIER_MODELS",
+          "suitable_for_independent_test": true,
+          "disclosure": "Untouched during CleanBTNVit Phase 12 training and selection. Previously used in Phase 4 face-detection study. Contains only 6 classes (surprise has 0 ground-truth samples)."
+        }
+      },
+      "provenance": "CheyneyComputerScience/CREMA-D",
+      "license_status": "ODbL 1.0 + DbCL 1.0 (LICENSE.txt preserved; held in local_library pending explicit attribution/human-subject redistribution review)",
+      "public_redistribution_allowed": false,
+      "teammate_sharing_allowed": "Teammates may download directly from CheyneyComputerScience/CREMA-D under ODbL 1.0 / DbCL 1.0"
+    }
+  },
+  "not_copied_archives": [
+    {
+      "name": "ExpW_RawArchive_7z",
+      "original_path": "C:\\Users\\asus\\OneDrive\\Desktop\\moodre\\VibeShift-local\\experiments\\cross-dataset\\dataset\\archives",
+      "files": [
+        "origin.7z.001",
+        "origin.7z.002",
+        "origin.7z.003",
+        "origin.7z.004",
+        "origin.7z.005",
+        "origin.7z.006",
+        "origin.7z.007",
+        "origin.7z.008"
+      ],
+      "size_bytes": 8113576419,
+      "reason_skipped": "7.56 GB unextracted multipart 7-Zip archive; skipped to avoid uncontrolled multi-GB duplication on OneDrive Desktop. Extracted 1,400-image evaluation subset and 5,962-image Phase 12 training subset are already copied cleanly."
+    }
+  ],
+  "verified_absent_locally": [
+    {
+      "name": "FER+",
+      "status": "NOT_PRESENT_LOCALLY"
+    },
+    {
+      "name": "RAF-DB",
+      "status": "NOT_PRESENT_LOCALLY",
+      "evidence": "experiments/rafdb-evaluation/access-status.json reports PERMISSION_REQUIRED, dataset_found=false"
+    },
+    {
+      "name": "AffectNet",
+      "status": "NOT_PRESENT_LOCALLY",
+      "evidence": "Only external pretrained initialization weights were used upstream; no AffectNet image files exist locally"
+    },
+    {
+      "name": "KDEF",
+      "status": "NOT_PRESENT_LOCALLY",
+      "evidence": "experiments/kdef-evaluation/dataset-access.json reports found=false, registration required"
+    }
+  ]
+}
